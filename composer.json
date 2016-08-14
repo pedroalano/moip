@@ -1,5 +1,5 @@
 {
-    "name": "artesaos/moip",
+    "name": "pedroalano/moip",
     "description": "Integration of MoIP payment intermediary with Laravel 5",
     "keywords": ["moip", "gateway", "payment", "laravel", "checkout", "intermediary"],
     "homepage": "http://dev.moip.com.br",
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Artesaos\\Moip\\": "src/"
+            "Pedroalano\\Moip\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Artesaos\\Moip\\Tests\\": "tests/"
+            "Pedroalano\\Moip\\Tests\\": "tests/"
         }
     },
     "extra": {
